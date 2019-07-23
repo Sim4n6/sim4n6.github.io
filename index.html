@@ -2,9 +2,9 @@
 layout: default
 ---
 <section>
-	<div class="divider"></div>
-		Welcome :)
-	<div class="divider"></div>
+	<p>
+		> welcome :)
+	</p>
 	{% for post in site.posts %}
 		{% unless post.next %}
 			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
