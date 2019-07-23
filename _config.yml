@@ -1,7 +1,7 @@
 # Site Info
 title:              "A Simple Blog"
 description:        "Sim4n6 blog"
-author_name:        "ALJI Mohamed" # change this to your name
+author_name:        "Sim4n6" # change this to your name
 logo_url:           https://avatars1.githubusercontent.com/u/13036531?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
