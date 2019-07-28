@@ -1,18 +1,18 @@
 ---
-title: Something new
+title: Geo-Location of Defibrillators at Toulouse city
 updated: 2019-07-28
 ---
 
 ### Geo-Location of Defibrillators at Toulouse city 
 
-```python
-import folium 
+```python 
+import csv
+import folium
 
 m = folium.Map(location=[43.6047, 1.442], zoom_start=12)
 ```
 
 ```python
-import csv 
 
 popup_html = """
     <h4>{}</h4>
