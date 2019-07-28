@@ -1,5 +1,5 @@
 ---
-title: How to generate/decode a QR image from cmd line ?
+title: How-to Generate and Decode a QR image from commandline ?
 updated: 2019-07-28 18:30
 ---
 
@@ -20,7 +20,5 @@ qrencode "Message-to-embed" -o qr.png
 ```
 zbarimg qr.png
 ```
-
-#### Terminal recording
 
 <a href="https://asciinema.org/a/H4QUaFZ7eLvCQ0NzccxvsTf6h" target="_blank"><img src="https://asciinema.org/a/H4QUaFZ7eLvCQ0NzccxvsTf6h.svg" /></a>
