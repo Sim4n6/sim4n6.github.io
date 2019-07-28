@@ -20,5 +20,3 @@ qrencode "Message-to-embed" -o qr.png
 ```
 zbarimg qr.png
 ```
-
-<a href="https://asciinema.org/a/H4QUaFZ7eLvCQ0NzccxvsTf6h" target="_blank"><img src="https://asciinema.org/a/H4QUaFZ7eLvCQ0NzccxvsTf6h.svg" /></a>
