@@ -3,7 +3,6 @@ title: Geo-Location of Defibrillators at Toulouse city
 updated: 2019-07-28
 ---
 
-### Geo-Location of Defibrillators at Toulouse city 
 
 ```python 
 import csv
