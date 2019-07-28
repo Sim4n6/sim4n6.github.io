@@ -1,5 +1,5 @@
 ---
-title: How-to Generate and Decode a QR image from commandline ?
+title: Generate and Decode a QR image from cmdline
 updated: 2019-07-28 18:30
 ---
 
