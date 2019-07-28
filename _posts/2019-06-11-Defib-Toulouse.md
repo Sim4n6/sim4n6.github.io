@@ -36,3 +36,7 @@ with open('defibrillateurs-toulouse.csv', newline='', encoding='utf-8') as csv_f
 ```python
 m
 ```
+
+<img src="/assets/defib.png" />
+
+<a href="https://github.com/Sim4n6/defib-geolocation" target="_blank">defib-geolocation repository</a>
