@@ -1,6 +1,6 @@
 ---
 title: Open Redirect Vulnerabilities
-updated: 2016-10-18 23:37
+updated: 2019-10-10 23:37
 ---
 
 
