@@ -1,5 +1,5 @@
 ---
-title: Download this Theme
+title: Page template
 updated: 2018-09-09 10:38
 ---
 

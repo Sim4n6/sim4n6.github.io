@@ -16,4 +16,5 @@ This will be your About page. Anything about you, it should be written here in d
 <center>
 <a href="https://www.twitter.com/Sim4n6" target="_blank"><img src="/assets/twitter.png"></a>
 <a href="https://github.com/Sim4n6" target="_blank"><img src="/assets/github.png"></a>
+<a href="/feed.xml" target="_blank"><img src="/assets/rss.png"></a>
 </center>
