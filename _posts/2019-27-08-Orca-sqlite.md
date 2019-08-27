@@ -1,8 +1,33 @@
 ---
-title: Page template
-updated: 2018-09-09 10:38
+title: Orca cmd line processor for .bash_history files.
+updated: 2019-09-27 10:38
 ---
 
-The Plain is a minimalist Jekyll theme, designed to focus on writing that really matters to you and your audience. Everything else is just a distraction. Nothing more other than useful and understandable information sharing. I have made a final update to this theme. This theme is suit best for personal blog type, but not limited to.
+# Orca
+ <img src="https://raw.githubusercontent.com/Sim4n6/Orca/master/orca.png" /> **Orca** a cmdline tool to process .bash_history file using SQLite db. 
 
-**_Fork_** or **_download_** the theme [here on GitHub](https://github.com/heiswayi/the-plain).
+### Usage :
+
+```
+usage: Orca [-h] [-p bash_history] [-e format] [-lc] [-c] [-l] [-s term] [-v]
+
+Process .bash_history file via sqlite3 database.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -p bash_history, --process bash_history
+                        process a .bash_history file into an sqlite db.
+  -e format, --export format
+                        export .bash_history content into csv or json.
+  -lc, --lastcmd        print the last typed command in bash.
+  -c, --count           count the number of items in history.
+  -l, --list            list the items of bash history.
+  -s term, --search term
+                        search for the term in the db.
+  -v, --version         print the current script version
+
+Examples: 
+    orca.py --process .bash_history_sample1 --count
+    orca.py --process .bash_history_sample1 -lc -s "curl" -c
+```
+
