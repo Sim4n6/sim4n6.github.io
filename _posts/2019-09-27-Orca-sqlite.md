@@ -1,10 +1,10 @@
 ---
-title: Orca cmd line processor for .bash_history files.
+title: Orca: a cmd line processor for .bash_history files
 updated: 2019-09-27 10:38
 ---
 
 # Orca
- <img src="https://raw.githubusercontent.com/Sim4n6/Orca/master/orca.png" /> **Orca** a cmdline tool to process .bash_history file using SQLite db. 
+ <img src="https://raw.githubusercontent.com/Sim4n6/Orca/master/orca.png" /> **Orca** a cmdline tool to process .bash_history file using SQLite dbms via SQLAlchemy. 
 
 Code source : <https://github.com/sim4n6/orca>
 
