@@ -1,6 +1,6 @@
 ---
 title: Orca: a cmd line processor for .bash_history files
-updated: 2019-09-27 10:38
+updated: 2019-09-27 10:39
 ---
 
 # Orca
