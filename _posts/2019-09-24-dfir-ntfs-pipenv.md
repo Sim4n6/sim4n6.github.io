@@ -1,5 +1,5 @@
 ---
-title: Installation of dfir_ntfs pkg from Github in Virtual env using Pipenv
+title: Installation of dfir_ntfs pkg from Github in a virtual env using Pipenv
 update: 2019-09-24 12:12
 ---
 
