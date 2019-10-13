@@ -6,4 +6,5 @@ updated: 2019-10-13 23:37
 OuzBot is a twitter bot to analyze the quality of my followers/friends. It lists them with their public details.
 In details, it is a flask web app using Tweepy (Twitter API wrapper for python) deployed on heroku PaaS.
 
-Code source available <https://github.com/Sim4n6/OuzBot>
+ - Code source available <https://github.com/Sim4n6/OuzBot> 
+ - Link to OuzBot : <https://ouzbot.herokuapp.com>
