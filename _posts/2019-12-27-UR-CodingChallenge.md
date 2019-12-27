@@ -14,7 +14,7 @@ Password : 123456789
 
 Code source available here <https://github.com/Sim4n6/UR-CodingChallenge>
 
-# Description :
+## Description :
 
 Website made in python3 using the microframework Flask and multiples extensions such : 
  - flask-bootstrap4 : for bootstrap4 use
@@ -25,10 +25,6 @@ Website made in python3 using the microframework Flask and multiples extensions 
 
 Deployment on Heroku PaaS. 
 
-Tools used : 
- - Black 
- - pre-commit 
- - vulture
- - pipenv
+Tools used : Black, pre-commit, vulture and pipenv
 
  Further description are available on the Github repository.
