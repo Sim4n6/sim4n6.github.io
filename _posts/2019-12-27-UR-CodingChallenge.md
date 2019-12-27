@@ -3,14 +3,14 @@ title: United Remote Coding Challenge.
 updated: 2019-12-27 12:48
 ---
 
-# UR-CodingChallenge
+# United Rmote CodingChallenge
 
-My solution to the UnitedRemote Coding Challenge. 
+My solution to the [UnitedRemote Coding Challenge](https://github.com/hiddenfounders/web-coding-challenge).<br> 
 
-Check out the live demo <https://ur-coding-challenge.herokuapp.com> :
-
-Username : User@gmail.com
-Password : 123456789
+Check out the live demo <https://ur-coding-challenge.herokuapp.com>.<br>
+<br>
+Username : User@gmail.com<br>
+Password : 123456789<br>
 
 Code source available here <https://github.com/Sim4n6/UR-CodingChallenge>
 
