@@ -1,9 +1,9 @@
 ---
-title: United Remote Coding Challenge.
+title: United Remote Coding Challenge
 updated: 2019-12-27 12:48
 ---
 
-# United Rmote CodingChallenge
+# United Remote CodingChallenge
 
 My solution to the [UnitedRemote Coding Challenge](https://github.com/hiddenfounders/web-coding-challenge).<br> 
 
@@ -14,7 +14,7 @@ Password : 123456789<br>
 
 Code source available here <https://github.com/Sim4n6/UR-CodingChallenge>
 
-## Description :
+**Description** :
 
 Website made in python3 using the microframework Flask and multiples extensions such : 
  - flask-bootstrap4 : for bootstrap4 use
@@ -27,4 +27,4 @@ Deployment on Heroku PaaS.
 
 Tools used : Black, pre-commit, vulture and pipenv
 
- Further description are available on the Github repository.
+Further description are available on the Github repository.
