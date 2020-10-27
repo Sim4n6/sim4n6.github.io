@@ -1,5 +1,5 @@
 ---
-title: Installation of dfir_ntfs pkg from Github in a virtual env using Pipenv
+title: Installation of dfir_ntfs pkg from Github on a virtual env using Pipenv
 update: 2019-09-24 12:12
 ---
 
@@ -10,7 +10,7 @@ pipenv shell
 # define python 3.7 as the used version
 pipenv --python 3.7
 
-# installl the dependencies
+# install the dependencies
 pipenv install setuptools
 
 # install the pkg dfir_ntfs from the VCS 
