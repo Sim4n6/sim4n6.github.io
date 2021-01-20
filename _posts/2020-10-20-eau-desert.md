@@ -5,4 +5,4 @@ updated: 2020-10-20 23:37
 
 I made a website for the association "L'Eau du Désert" using Python and Wagtail CMS and deployed on Heroku PaaS.
 
-<http://l-eau-du-desert.com/>
+<https://leaududesert.herokuapp.com>
