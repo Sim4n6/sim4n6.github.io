@@ -1,0 +1,6 @@
+---
+title: Solved the Hunter DFIR Challenge
+updated: 2021-01-16 13:37
+---
+
+I solved the Hunter DFIR challenge. I leave a little pointer [here](https://cyberdefenders.org/labs/33) because sharing is caring :)  
