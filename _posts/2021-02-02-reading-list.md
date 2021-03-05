@@ -1,14 +1,14 @@
 ---
-title: My reading list 
+title: My Reading Challenge 
 updated: 2021-03-05 10:38
 ---      
       
-For this year, my challenge will be to read 05 books. I know it is very little but it is already enough for me. 
+My reading challenge will be to read 05 books this year (2021). I know ! it is very little but it is already enough as re-start. 
 
 <div id="gr_challenge_11650" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:400px; min-height: 100px">
   <div id="gr_challenge_progress_body_11650" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
     <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
-      <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11650-2021-reading-challenge">2021 Reading Challenge</a>
+      <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11650-2021-reading-challenge">My 2021 Reading Challenge</a>
     </h3>
         <div class="challengePic">
           <a rel="nofollow" href="https://www.goodreads.com/challenges/11650-2021-reading-challenge"><img alt="2021 Reading Challenge" style="float:left; margin-right: 10px; border: 0 none" src="https://images.gr-assets.com/challenges/1608245803p2/11650.jpg" /></a>
