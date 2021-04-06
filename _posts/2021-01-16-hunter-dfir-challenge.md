@@ -1,5 +1,5 @@
 ---
-title: Solved the Hunter DFIR Challenge
+title: [Solved] The Hunter DFIR Challenge
 updated: 2021-01-16 13:37
 ---
 
