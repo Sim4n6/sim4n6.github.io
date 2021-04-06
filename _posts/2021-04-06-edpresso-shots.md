@@ -9,4 +9,4 @@ I've published so far:
  - [How to handle "No manual entry" error on OpenSUSE Tumbleweed](https://www.educative.io/edpresso/how-to-handle-no-manual-entry-error-on-opensuse-tumbleweed)
 
 
-<div align="center"> <img src="assets/shot.jpg" /></div>
+<div align="center"> <img src="../assets/shot.jpg" /></div>
