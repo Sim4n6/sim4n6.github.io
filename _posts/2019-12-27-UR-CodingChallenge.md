@@ -1,11 +1,11 @@
 ---
-title: United Remote Coding Challenge
+title: UR Coding Challenge
 updated: 2019-12-27 12:48
 ---
 
-# United Remote CodingChallenge
+# UR CodingChallenge
 
-My solution to the [UnitedRemote Coding Challenge](https://github.com/hiddenfounders/web-coding-challenge).<br> 
+My solution to the [UR Coding Challenge](https://github.com/hiddenfounders/web-coding-challenge).<br> 
 
 Check out the live demo <https://ur-coding-challenge.herokuapp.com>.<br>
 <br>
