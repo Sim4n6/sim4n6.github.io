@@ -9,4 +9,4 @@ I've published so far:
  - [How to handle "No manual entry" error on OpenSUSE Tumbleweed](https://www.educative.io/edpresso/how-to-handle-no-manual-entry-error-on-opensuse-tumbleweed)
 
 
-<div align="center">![Edpresso Shot](https://raw.githubusercontent.com/Sim4n6/sim4n6.github.io/master/assets/shot.jpg)</div>
+<div align="center">![Edpresso Shot](https://github.com/Sim4n6/sim4n6.github.io/blob/master/assets/shot.jpg)</div>
