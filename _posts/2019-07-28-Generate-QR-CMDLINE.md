@@ -1,5 +1,5 @@
 ---
-title: Generate and Decode a QR image from cmdline
+title: TIP - Generate/Decode a QR image from cli
 updated: 2019-07-28 18:30
 ---
 
