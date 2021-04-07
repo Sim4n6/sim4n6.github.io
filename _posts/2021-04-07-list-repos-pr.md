@@ -1,5 +1,5 @@
 ---
-title: List of repositories I PR.
+title: PR-ed repositories
 updated: 2021-04-07 23:37
 ---
 
